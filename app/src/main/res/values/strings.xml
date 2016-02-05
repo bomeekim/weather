@@ -3,9 +3,10 @@
 
     <string name="app_name">Simple Weather</string>
     <string name="change_city">Change city</string>
+    <string name="change_days">Change days</string>
 
     <!-- Put your own APP ID here -->
-    <string name="open_weather_maps_app_id">aa8679d48001497623d285acc2e8c3fc</string>
+    <string name="open_weather_maps_app_id">92636d01a6d301b4fb8ccf39ad00500b</string>
     
     <string name="weather_sunny">&#xf00d;</string>
     <string name="weather_clear_night">&#xf02e;</string>
